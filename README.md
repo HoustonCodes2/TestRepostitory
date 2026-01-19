@@ -1,6 +1,4 @@
 # TestRepostitory
-Testing how to create a repostiroy
+Testing how to create a repository
 
-Test
-.....
-.....
+Test text lorum ipsum
